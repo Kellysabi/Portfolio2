@@ -1,8 +1,11 @@
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 
 import { Footer, Navbar } from "./components";
-import { About, Contact, Home, } from "./pages";
+
 import Projects from "./pages/Projects.jsx";
+import Contact from "./pages/Contact.jsx";
+import Home from "./pages/Home.jsx";
+import About from "./pages/About.jsx";
 
 const App = () => {
     return (
