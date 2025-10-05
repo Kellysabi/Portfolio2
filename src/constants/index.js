@@ -118,7 +118,7 @@ export const skills = [
 
     {
         imageUrl: python,
-        name: "python`",
+        name: "python",
         type: "Backend & AI/ML",
     }
 ];
