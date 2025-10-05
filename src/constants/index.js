@@ -190,7 +190,7 @@ export const socialLinks = [
     {
         name: 'Contact',
         iconUrl: contact,
-        link: "contact",
+        link: "https://kelechidev.vercel.app/contact",
     },
     {
         name: 'GitHub',
