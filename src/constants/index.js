@@ -118,7 +118,7 @@ export const skills = [
 
     {
         imageUrl: python,
-        name: "Python",
+        name: "python",
         type: "Backend & AI/ML",
     }
 ];
@@ -145,7 +145,7 @@ export const experiences = [
         company_name: "Programmer City",
         icon: procity,
         iconBg: "#b7e4c7",
-        date: "March 2022 - October 2022",
+        date: "March 2022 – October 2022",
         points: [
             "Developed 7 responsive web and cross-platform mobile applications using React, React Native, and Flutter.",
             "Enhanced user engagement by 32% through responsive design and accessibility compliance.",
@@ -159,7 +159,7 @@ export const experiences = [
         company_name: "Harvoxx Tech Hub",
         icon: harvox,
         iconBg: "#accbe1",
-        date: "August 2023 - January 2025",
+        date: "August 2023 – January 2025",
         points: [
             "Engineered and deployed 8 secure, scalable full-stack web applications leveraging React, Node.js, Python, and AWS, serving 1000+ users.",
             "Performed 15 vulnerability assessments and penetration tests, resolving 23 critical security issues and reducing incidents by 85%.",
@@ -175,7 +175,7 @@ export const experiences = [
         company_name: "Self-Employed",
         icon: freelancer,
         iconBg: "#fbc3bc",
-        date: "2023 - Present",
+        date: "2023 – Present",
         points: [
             "Built and deployed 5+ production-grade web and mobile applications for clients using React, Next.js, and Flutter.",
             "Delivered a decentralized freelance marketplace (DappWorks) using Solidity and Web3.js, ensuring secure payments via smart contracts.",
@@ -210,7 +210,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Amazon Price Tracker',
         description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://your-live-site.com',
+        link: 'https://your-live-site.com', // Add your live deployment URL
         github: 'https://github.com/adrianhajdin/pricewise',
     },
     {
@@ -218,7 +218,7 @@ export const projects = [
         theme: 'btn-back-green',
         name: 'Full Stack Threads Clone',
         description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://your-threads-live.com',
+        link: 'https://your-threads-live.com', // Add your live deployment URL
         github: 'https://github.com/adrianhajdin/threads',
     },
     {
@@ -226,7 +226,7 @@ export const projects = [
         theme: 'btn-back-blue',
         name: 'Car Finding App',
         description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        link: 'https://your-car-app-live.com',
+        link: 'https://your-car-app-live.com', // Add your live deployment URL
         github: 'https://github.com/adrianhajdin/project_next13_car_showcase',
     },
     {
@@ -234,7 +234,7 @@ export const projects = [
         theme: 'btn-back-pink',
         name: 'Full Stack Instagram Clone',
         description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://your-snapgram-live.com',
+        link: 'https://your-snapgram-live.com', // Add your live deployment URL
         github: 'https://github.com/adrianhajdin/social_media_app',
     },
     {
@@ -242,7 +242,7 @@ export const projects = [
         theme: 'btn-back-black',
         name: 'Real-Estate Application',
         description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-        link: 'https://your-estate-live.com',
+        link: 'https://your-estate-live.com', // Add your live deployment URL
         github: 'https://github.com/adrianhajdin/projects_realestate',
     },
     {
@@ -250,7 +250,7 @@ export const projects = [
         theme: 'btn-back-yellow',
         name: 'AI Summarizer Application',
         description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-        link: 'https://your-summiz-live.com',
+        link: 'https://your-summiz-live.com', // Add your live deployment URL
         github: 'https://github.com/adrianhajdin/project_ai_summarizer',
     }
 ];
