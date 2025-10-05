@@ -186,7 +186,7 @@ export const socialLinks = [
     {
         name: 'Contact',
         iconUrl: contact,
-        link: 'contact',
+        link: 'https://kellystackdev-navy.vercel.app/contact',
     },
     {
         name: 'GitHub',
