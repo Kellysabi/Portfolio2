@@ -157,7 +157,7 @@ export const experiences = [
     {
         title: "Software Engineering Intern",
         company_name: "Harvoxx Tech Hub",
-        icon: starbucks,
+        icon: starbucks
         iconBg: "#accbe1",
         date: "2023 - Present",
         points: [
@@ -210,47 +210,47 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Amazon Price Tracker',
         description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: '/', // Add your live deployment URL
-        github: '/',
+        link: 'https://github.com/Kellysabi', // Add your live deployment URL
+        github: 'https://github.com/Kellysabi',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'Full Stack Threads Clone',
         description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: '/', // Add your live deployment URL
-        github: '/',
+        link: 'https://github.com/Kellysabi', // Add your live deployment URL
+        github: 'https://github.com/Kellysabi',
     },
     {
         iconUrl: car,
         theme: 'btn-back-blue',
         name: 'Car Finding App',
         description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        link: '/', // Add your live deployment URL
-        github: '/',
+        link: 'https://github.com/Kellysabi', // Add your live deployment URL
+        github: 'https://github.com/Kellysabi',
     },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
         name: 'Full Stack Instagram Clone',
         description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: '/', // Add your live deployment URL
-        github: '/',
+        link: 'https://github.com/Kellysabi', // Add your live deployment URL
+        github: 'https://github.com/Kellysabi',
     },
     {
         iconUrl: estate,
         theme: 'btn-back-black',
         name: 'Real-Estate Application',
         description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-        link: '/', // Add your live deployment URL
-        github: '/',
+        link: 'https://github.com/Kellysabi', // Add your live deployment URL
+        github: 'https://github.com/Kellysabi',
     },
     {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
         name: 'AI Summarizer Application',
         description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-        link: '/, // Add your live deployment URL
-        github: '/',
+        link: 'https://github.com/Kellysabi', // Add your live deployment URL
+        github: 'https://github.com/Kellysabi',
     }
 ];
