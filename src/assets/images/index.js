@@ -1,15 +1,12 @@
-import hero from './hero.jpg'
-import meta from './meta.png'
-import shopify from './shopify.png'
-import starbucks from './starbucks.png'
-import tesla from './tesla.png'
-import logo from './logo.svg'
+
+import procity from './ProCity.svg'
+import veritas from './Veritas_university_logo.png'
+import harvox from './Harvox.png'
+import freelancer from './freelancer.svg';
 
 export {
-    hero,
-    meta,
-    shopify,
-    starbucks,
-    tesla,
-    logo
+    procity,
+    veritas,
+    harvox,
+    freelancer,
 }
