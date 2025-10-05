@@ -156,7 +156,7 @@ export const experiences = [
         title: "Software Engineering Intern",
         company_name: "Harvoxx Tech Hub",
         icon: harvox,
-        iconBg: "#accbe1",
+        iconBg: "#b7e4c7",
         date: "August 2023 - January 2025",
         points: [
             "Engineered and deployed 8 secure, scalable full-stack web applications leveraging React, Node.js, Python, and AWS, serving 1000+ users.",
