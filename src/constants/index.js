@@ -125,82 +125,74 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "Computer Science Undergraduate",
-        company_name: "Veritas University Abuja",
-        icon: meta,
-        iconBg: "#a2d2ff",
-        date: "Ongoing",
-        points: [
-            "Earned a Bachelor of Science in Computer Science with a strong technical foundation and academic excellence at Veritas University, Abuja.",
-            "Specialized in Data Science and Data Engineering, focusing on data analysis, predictive modeling, and advanced analytics.",
-            "Obtained Cisco Certified Professional certifications, enhancing skills in data analysis, machine learning, and generating actionable insights.",
-            "Gained proficiency in data pipeline optimization, database architecture, ETL processes, and data warehouse management.",
-            "Developed expertise in enterprise network design, security protocols, threat mitigation, and infrastructure performance optimization.",
-            "Led innovative data science and engineering projects, building scalable infrastructure and predictive models to drive business insights.",
-            "Pursued continuous professional development through extracurricular technical courses and practical application of knowledge.",
-        ],
-    },
-    {
-        title: "Full Stack Developer Intern",
-        company_name: "Programmer City",
-        icon: shopify,
-        iconBg: "#b7e4c7",
-        date: "2022 - Present",
-        points: [
-            "Developed 7 responsive web and cross-platform mobile applications using React, React Native, and Flutter.",
-            "Enhanced user engagement by 32% through responsive design and accessibility compliance.",
-            "Integrated 14 RESTful APIs and third-party SDKs, improving application functionality and data efficiency by 28%.",
-            "Optimized app performance with code refactoring, reducing load times by 35%.",
-            "Implemented unit, integration, and automated testing within CI/CD pipelines, increasing deployment reliability by 45%.",
-        ],
-    },
-    {
-        title: "Software Engineering Intern",
-        company_name: "Harvoxx Tech Hub",
-        icon: starbucks
+        title: "React.js Developer",
+        company_name: "Starbucks",
+        icon: starbucks,
         iconBg: "#accbe1",
-        date: "2023 - Present",
+        date: "March 2020 - April 2021",
         points: [
-            "Engineered and deployed 8 secure, scalable full-stack web applications leveraging React, Node.js, Python, and AWS, serving 1000+ users.",
-            "Performed 15 vulnerability assessments and penetration tests, resolving 23 critical security issues and reducing incidents by 85%.",
-            "Orchestrated automation of 12 CI/CD pipelines with Jenkins, Docker, and Kubernetes, accelerating deployment cycles by 40%.",
-            "Designed and managed cloud infrastructure on AWS for 6 enterprise projects, achieving 99.5% uptime.",
-            "Developed and fine-tuned 5 ML models with TensorFlow for predictive analytics, improving forecasting accuracy by 18%.",
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
-
-
     {
-        title: "Freelance Software Engineer",
-        company_name: "Self-Employed",
+        title: "React Native Developer",
+        company_name: "Tesla",
         icon: tesla,
         iconBg: "#fbc3bc",
-        date: "2022 - Present",
+        date: "Jan 2021 - Feb 2022",
         points: [
-            "Built and deployed 5+ production-grade web and mobile applications for clients using React, Next.js, and Flutter.",
-            "Delivered a decentralized freelance marketplace (DappWorks) using Solidity and Web3.js, ensuring secure payments via smart contracts.",
-            "Developed AI-powered applications such as ResumePro AI, an intelligent resume builder leveraging OpenAI GPT APIs.",
-            "Created e-commerce platforms (ShopSwift) with Stripe integration, enabling small businesses to generate revenue online.",
-            "Managed cloud deployment pipelines and hosting for client projects on AWS, Vercel, and Firebase.",
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
-
+    {
+        title: "Web Developer",
+        company_name: "Shopify",
+        icon: shopify,
+        iconBg: "#b7e4c7",
+        date: "Jan 2022 - Jan 2023",
+        points: [
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+    {
+        title: "Full stack Developer",
+        company_name: "Meta",
+        icon: meta,
+        iconBg: "#a2d2ff",
+        date: "Jan 2023 - Present",
+        points: [
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
 ];
+
 export const socialLinks = [
     {
         name: 'Contact',
         iconUrl: contact,
-        link: "https://kelechidev.vercel.app/contact",
+        link: '/contact',
     },
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/Kellysabi',
+        link: 'https://github.com/YourGitHubUsername',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/kelechi-akwara-8a7862248',
+        link: 'https://www.linkedin.com/in/YourLinkedInUsername',
     }
 ];
 
@@ -210,47 +202,41 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Amazon Price Tracker',
         description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/Kellysabi', // Add your live deployment URL
-        github: 'https://github.com/Kellysabi',
+        link: 'https://github.com/adrianhajdin/pricewise',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'Full Stack Threads Clone',
         description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://github.com/Kellysabi', // Add your live deployment URL
-        github: 'https://github.com/Kellysabi',
+        link: 'https://github.com/adrianhajdin/threads',
     },
     {
         iconUrl: car,
         theme: 'btn-back-blue',
         name: 'Car Finding App',
         description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        link: 'https://github.com/Kellysabi', // Add your live deployment URL
-        github: 'https://github.com/Kellysabi',
+        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
     },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
         name: 'Full Stack Instagram Clone',
         description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://github.com/Kellysabi', // Add your live deployment URL
-        github: 'https://github.com/Kellysabi',
+        link: 'https://github.com/adrianhajdin/social_media_app',
     },
     {
         iconUrl: estate,
         theme: 'btn-back-black',
         name: 'Real-Estate Application',
         description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-        link: 'https://github.com/Kellysabi', // Add your live deployment URL
-        github: 'https://github.com/Kellysabi',
+        link: 'https://github.com/adrianhajdin/projects_realestate',
     },
     {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
         name: 'AI Summarizer Application',
         description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-        link: 'https://github.com/Kellysabi', // Add your live deployment URL
-        github: 'https://github.com/Kellysabi',
+        link: 'https://github.com/adrianhajdin/project_ai_summarizer',
     }
 ];
