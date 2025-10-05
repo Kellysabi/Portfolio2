@@ -210,47 +210,47 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Amazon Price Tracker',
         description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://your-live-site.com', // Add your live deployment URL
-        github: 'https://github.com/adrianhajdin/pricewise',
+        link: '/', // Add your live deployment URL
+        github: '/',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'Full Stack Threads Clone',
         description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://your-threads-live.com', // Add your live deployment URL
-        github: 'https://github.com/adrianhajdin/threads',
+        link: '/', // Add your live deployment URL
+        github: '/',
     },
     {
         iconUrl: car,
         theme: 'btn-back-blue',
         name: 'Car Finding App',
         description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        link: 'https://your-car-app-live.com', // Add your live deployment URL
-        github: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        link: '/', // Add your live deployment URL
+        github: '/',
     },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
         name: 'Full Stack Instagram Clone',
         description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://your-snapgram-live.com', // Add your live deployment URL
-        github: 'https://github.com/adrianhajdin/social_media_app',
+        link: '/', // Add your live deployment URL
+        github: '/',
     },
     {
         iconUrl: estate,
         theme: 'btn-back-black',
         name: 'Real-Estate Application',
         description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-        link: 'https://your-estate-live.com', // Add your live deployment URL
-        github: 'https://github.com/adrianhajdin/projects_realestate',
+        link: '/', // Add your live deployment URL
+        github: '/',
     },
     {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
         name: 'AI Summarizer Application',
         description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-        link: 'https://your-summiz-live.com', // Add your live deployment URL
-        github: 'https://github.com/adrianhajdin/project_ai_summarizer',
+        link: '/, // Add your live deployment URL
+        github: '/',
     }
 ];
