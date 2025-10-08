@@ -231,7 +231,7 @@ export const projects = [
         theme: 'btn-back-black',
         name: 'Real-Estate Application',
         description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-        link: 'https://your-estate-live.com',
+        link: 'https://github.com/Kellysabi/Sabitor',
         github: https://github.com/Kellysabi/Sabitor',
     },
     {
