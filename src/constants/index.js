@@ -222,7 +222,7 @@ export const projects = [
         theme: 'btn-back-blue',
         name: 'Car Finding App',
         description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        github: ' https://github.com/Kellysabi/Carhub',
+        github: 'https://github.com/Kellysabi/Carhub',
     },
    
     {
