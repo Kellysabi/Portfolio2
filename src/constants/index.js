@@ -222,8 +222,7 @@ export const projects = [
         theme: 'btn-back-blue',
         name: 'Car Finding App',
         description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        link: 'https://your-car-app-live.com',
-        github: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        github: ' https://github.com/Kellysabi/Carhub',
     },
    
     {
