@@ -213,7 +213,7 @@ export const projects = [
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'Full Stack Threads Clone',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
+        description: 'Created a full-stack replica of the popular discussion platform "Sabicon," enabling users to post and engage in threaded conversations.',
         link: 'https://sabicon.vercel.app',
         github: 'https://github.com/Kellysabi/sabicon',
     },
