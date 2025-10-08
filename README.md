@@ -294,7 +294,7 @@ Passionate about creating immersive web experiences that blend cutting-edge tech
 ### Connect
 - 🌐 Portfolio: https://kelechistackdev.vercel.app
 - 💼 LinkedIn:https://www.linkedin.com/in/kelechi-akwara-8a7862248/
-- 🐙 GitHub: https://github.com/Kellysab
+- 🐙 GitHub: https://github.com/Kellysabi
 - 📧 Email: kelechiemmanuel888@gmail.com 
 
 ## 🌟 Show Your Support
